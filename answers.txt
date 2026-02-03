@@ -12,3 +12,7 @@ question-3:
 First one is Goal Planning, deciding the work that will go into it and overall goals
 Second is Daily Scrum, where everyone checks in with progress and what they will be doing today
 Third is Review, where work is overviewed and they show the stakeholders the final product
+
+Quesiton 4:
+Epic is the ovearching project idea fitting into a sprint. A story is a piece within the epic, too large to be accomplished at once
+A bug is something currently wrong. A task is a managable piece of work that will fit into a story
