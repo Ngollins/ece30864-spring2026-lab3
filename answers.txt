@@ -7,3 +7,8 @@ Cons agile: less rigid, so more likely for new software developer error
 question-2:
 The main difference is that the product owner is responsible for the customer-facing aspects, while 
 the scrum master focuses on the team efficiency and enviroment
+
+question-3:
+First one is Goal Planning, deciding the work that will go into it and overall goals
+Second is Daily Scrum, where everyone checks in with progress and what they will be doing today
+Third is Review, where work is overviewed and they show the stakeholders the final product
