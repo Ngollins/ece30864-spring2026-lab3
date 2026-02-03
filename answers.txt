@@ -1,0 +1,5 @@
+question 1:
+pros agile: Most of the time is more productive because tasks can be accomplished simultaneously
+            Everything revolves around customer needs, so it's more customized
+Cons agile: less rigid, so more likely for new software developer error
+            You learn as you go, so you frequently change your development plan which can be time consuming
